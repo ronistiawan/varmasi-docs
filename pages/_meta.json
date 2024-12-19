@@ -2,7 +2,9 @@
   "index": "Introduction",
   "install": "Instalasi",
   "tutorials": "Tutorial",
+  "manage-users": "Mangelola Pengguna",
   "features": "Fitur Unggulan",
+
   "about": {
     "title": "About",
     "type": "page"
