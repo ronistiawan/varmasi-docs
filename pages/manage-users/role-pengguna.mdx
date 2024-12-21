@@ -1,5 +1,21 @@
 # Role Pengguna
 
-Terdapat 2 jenis user Role, Admin dan Karyawan
+Terdapat 3 user Role: Admin, Karyawan, dan Users.
 User yang memiliki Role Admin dapat mengakses semua menu, sedangkan Role Karyawan hanya dapat mengakses 
-menu-menu yang dipilih oleh admin
+menu-menu yang dipilih oleh admin.
+Untuk Role Users, tidak dapat mengakses semua menu.
+| Role             | Akses                                       |
+|:-----------------| :----------------------------------------   |
+| Admin            | Semua dapat diakses                         |
+| Staff            | Hanya dapat mengakses yang [ditentukan Admin](/manage-users/akses-karyawan) |
+| Users (No Akses) | Tidak dapat mengakses semua menu            |
+
+<br/>
+<img src="/imgs/users/roles.png" alt="manage user roles"/>
+
+Untuk mengganti Role user, drag user yang mau diganti dan drop di role yang baru
+<br/>
+<img src="/imgs/users/role-drag.gif" alt="manage user roles"/>
+
+<br/>
+
