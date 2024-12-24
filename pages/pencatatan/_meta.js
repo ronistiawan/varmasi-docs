@@ -1,4 +1,4 @@
-{
+export default {
       "umum": "Pencatatan Umum",
       "suhu": "Pencatatan Suhu",
       "aktivitas": "Aktivitas Karyawan"

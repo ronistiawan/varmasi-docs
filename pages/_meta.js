@@ -1,9 +1,9 @@
-{
+export default {
   "index": "Introduction",
   "install": "Instalasi",
   "manage-users": "Mangelola Pengguna",
   "produk": "Mengelola Produk",
-  "penjualan": "Penjualan",
+  "kasir": "Kasir",
   "pembelian": "Pembelian",
   "pencatatan": "Pencatatan",
   "features": "Fitur Unggulan",

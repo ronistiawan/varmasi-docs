@@ -1,4 +1,4 @@
-{
+export default {
       "penjualan": "Input Penjualan",
       "nota": "Nota",
       "penjualan-member": "Penjualan Member",
