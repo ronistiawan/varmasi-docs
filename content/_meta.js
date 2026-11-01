@@ -11,11 +11,11 @@ export default {
   "contact": {
     "title": "Contact ↗",
     "type": "page",
-    "href": "mailto:admin@varmasi.com"
+    "href": "mailto:admin@parmasi.com"
   },
   "Daftar": {
     "title": "Daftar ↗",
     "type": "page",
-    "href": "https://varmasi.com/register"
+    "href": "https://parmasi.com/register"
   }
 }

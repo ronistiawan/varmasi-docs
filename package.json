@@ -1,7 +1,7 @@
 {
-  "name": "varmasi",
+  "name": "parmasi",
   "version": "0.0.1",
-  "description": "Varmasi Docs",
+  "description": "Parmasi Docs",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

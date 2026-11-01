@@ -6,13 +6,13 @@ import type { ReactNode } from 'react'
 import 'nextra-theme-docs/style.css'
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://varmasi.com'),
+  metadataBase: new URL('https://parmasi.com'),
   title: {
-    default: 'Varmasi',
-    template: '%s | Varmasi'
+    default: 'Parmasi',
+    template: '%s | Parmasi'
   },
   description: 'Aplikasi Apotek terlengkap dan termurah',
-  applicationName: 'Varmasi',
+  applicationName: 'Parmasi',
   generator: 'Next.js',
   other: {
     'msapplication-TileColor': '#fff'
@@ -24,7 +24,7 @@ const navbar = (
     logo={
       <span>
         <img
-          src="https://res.cloudinary.com/dmhtdcvan/image/upload/v1725097352/Varmasi/varmasi.png"
+          src="https://ronistiawan.github.io/parmasi/parmasi-512.png"
           alt="logo"
         />
       </span>
@@ -44,7 +44,7 @@ export default async function RootLayout({
       <body>
         <Layout
           navbar={navbar}
-          footer={<Footer>Varmasi @ 2024</Footer>}
+          footer={<Footer>Parmasi @ 2024</Footer>}
           pageMap={pageMap}
         >
           {children}
